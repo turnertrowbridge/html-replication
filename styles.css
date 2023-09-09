@@ -1,0 +1,64 @@
+.home {
+    width: 40%;
+    text-align: center;
+    background: #000;
+    color: #fff;
+    margin: auto;
+}
+
+.home #LF {
+    font-size: 1.2em;
+    border-bottom: 1px solid white;
+    line-height: 4;
+    font-family: 'Cantarell', sans-serif;
+}
+
+.home #num {
+    font-family: sans-serif;
+}
+
+.home #num-no {
+    font-size: 3em;
+    text-decoration: underline;
+    position: relative;
+    bottom: 50px;
+}
+
+.home #num-13 {
+    font-size: 8em;
+}
+
+.hello {
+    text-align: center;
+    /*display: block;*/
+    margin: auto;
+    position: relative;
+}
+
+/*.hello #img {*/
+/*    position: absolute;*/
+
+/*}*/
+
+/*.hello #interest {*/
+/*    z-index: 100;*/
+/*    position: absolute;*/
+/*    font-size: 24px;*/
+/*    font-weight: bold;*/
+/*    left: 150px;*/
+/*    top: 350px;*/
+/*}*/
+
+#call-us {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+#get {
+    width: 20%;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    border: 2px solid black;
+}

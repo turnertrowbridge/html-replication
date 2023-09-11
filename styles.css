@@ -31,7 +31,7 @@
 .hello {
     display: flex;
     justify-content: center;
-    align-items: center;
+    /*align-items: center;*/
     padding: 20px;
 }
 
@@ -54,7 +54,6 @@
     color: #cbc23b;
 }
 
-
 .text-overlay #call-us {
     font-size: 20px;
 }
@@ -72,9 +71,6 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
-    color: white;
-    text-align: center;
 }
 
 .grids {

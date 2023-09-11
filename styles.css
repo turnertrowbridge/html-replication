@@ -68,8 +68,13 @@
 }
 
 .bottom {
-    /*transform: translateY(-100%);*/
-    /*display: inline-block;*/
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
 }
 
 .grids {

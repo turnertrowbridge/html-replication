@@ -68,6 +68,11 @@
 }
 
 .bottom {
+    /*transform: translateY(-100%);*/
+    /*display: inline-block;*/
+}
+
+.grids {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }

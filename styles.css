@@ -65,17 +65,18 @@ body {
 }
 
 
-.text-overlay #call-us {
+#call-us {
     font-size: 20px;
 }
 
-.text-overlay #get {
+#get {
     width: 30%;
     padding: 20px;
     text-align: center;
     margin: auto;
     border: 2px solid black;
     font-family: 'Cantarell', sans-serif;
+    color: black;
 }
 
 .bottom {
@@ -123,8 +124,6 @@ body {
     grid-template-columns: repeat(5, 1fr);
     padding-left: 1em;
 }
-
-
 
 .box4 {
     grid-column: 1 / 6;

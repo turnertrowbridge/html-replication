@@ -10,6 +10,10 @@ body {
     padding: 20px;
 }
 
+.clickable {
+    text-decoration: none;
+}
+
 .home {
     width: 40%;
     text-align: center;
@@ -18,25 +22,26 @@ body {
     margin: auto;
 }
 
-.home #LF {
+#LF {
     font-size: 1.2em;
     border-bottom: 1px solid white;
     line-height: 4;
     font-family: 'Cantarell', sans-serif;
 }
 
-.home #num {
+#num {
     font-family: sans-serif;
+    color: white;
 }
 
-.home #num-no {
+#num-no {
     font-size: 3em;
     text-decoration: underline;
     position: relative;
     bottom: 50px;
 }
 
-.home #num-13 {
+#num-13 {
     font-size: 8em;
 }
 
